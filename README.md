@@ -82,3 +82,35 @@ Busco oportunidades de prácticas, proyectos técnicos y colaboraciones en redes
 - Teléfono: +57 333 647 1013  
 - GitHub: https://github.com/harold12000  
 - LinkedIn: https://linkedin.com/in/as1d2dsa000
+- <svg xmlns="http://www.w3.org/2000/svg" width="600" height="160" viewBox="0 0 600 160">
+  <style>
+    .label { font:14px sans-serif; fill:#222; }
+    .bar-bg { fill:#e9e9e9; rx:6; ry:6; }
+    .bar { fill:#4CAF50; rx:6; ry:6; }
+  </style>
+  <g transform="translate(20,10)">
+    <text class="label" x="0" y="14">Cableado Estructurado</text>
+    <rect class="bar-bg" x="0" y="20" width="520" height="14" rx="6" />
+    <rect class="bar" x="0" y="20" width="0" height="14" rx="6">
+      <animate attributeName="width" from="0" to="442" dur="1.4s" fill="freeze" />
+    </rect>
+
+    <text class="label" x="0" y="54">Redes / IP</text>
+    <rect class="bar-bg" x="0" y="60" width="520" height="14" rx="6" />
+    <rect class="bar" x="0" y="60" width="0" height="14" rx="6">
+      <animate attributeName="width" from="0" to="390" dur="1.4s" fill="freeze" />
+    </rect>
+
+    <text class="label" x="0" y="94">IoT (protocolos)</text>
+    <rect class="bar-bg" x="0" y="100" width="520" height="14" rx="6" />
+    <rect class="bar" x="0" y="100" width="0" height="14" rx="6">
+      <animate attributeName="width" from="0" to="364" dur="1.4s" fill="freeze" />
+    </rect>
+
+    <text class="label" x="0" y="134">Visión por computador</text>
+    <rect class="bar-bg" x="0" y="140" width="520" height="14" rx="6" />
+    <rect class="bar" x="0" y="140" width="0" height="14" rx="6">
+      <animate attributeName="width" from="0" to="312" dur="1.4s" fill="freeze" />
+    </rect>
+  </g>
+</svg>
